@@ -1,7 +1,7 @@
 # Fortune_Portfolio
 Data Analytics Portfolio
 
-# [Project 1_Movie recomendation system] (
+# [Project 1_Movie recomendation system] 
 
 This project was personal movie recommendation system project inspired by Roni Malik
 *Data was taken from the movielens dataset
